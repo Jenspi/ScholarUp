@@ -9,7 +9,3 @@ A senior in the general Computer Science concentration with a huge interest in S
 ### Jumana Suleiman
 
 ### Lenaoria Guerin
-
-### Callie Marshall
-
-### Steven Guan
