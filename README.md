@@ -1,7 +1,7 @@
-# About <name placeholder>
-<name placeholder> is our study app created for Mobile Applications Development in Fall 2023 and presented at InnovateUNO.
+# About ScholarUp
+ScholarUp is our study app created for Mobile Applications Development in Fall 2023 and presented at InnovateUNO.
 
-<name placeholder> is a combination of studying, planning, and _friendly_ competition. <name placeholder> uses XP from creating flashcards, studying, or mastering a concept to determine where a user would fall on a leaderboard. We implement daily challenges and achievements for those who enjoy the passive challenge.
+ScholarUp is a combination of studying, planning, and _friendly_ competition. ScholarUp uses XP from creating flashcards, studying, or mastering a concept to determine where a user would fall on a leaderboard. We implement daily challenges and achievements for those who enjoy the passive challenge.
 
 ## Meet the Creators:
 ### Jenny Spicer
