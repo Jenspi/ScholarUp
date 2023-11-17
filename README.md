@@ -1,3 +1,7 @@
+<p align="center">
+  <img width=1080 height=400 src="/repo_photos/ScholarUpBanner.png" alt="Banner showing the name of our app, ScholarUp. It is a green background, with a white grid laid on top. In the foreground, the name ScholarUP is in alternating brown letters, with the mascott peeking out from behind it.">
+</p>
+
 # :green_apple: About ScholarUp
 ScholarUp is our study app created for Mobile Applications Development in Fall 2023 and presented at InnovateUNO.
 
