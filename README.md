@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=1080 height=400 src="/repo_photos/ScholarUpBanner.png" alt="Banner showing the name of our app, ScholarUp. It is a green background, with a white grid laid on top. In the foreground, the name ScholarUP is in alternating brown letters, with the mascott peeking out from behind it.">
+<img width="671" alt="Screenshot 2023-11-17 at 9 56 54 PM" src="https://github.com/Jenspi/ScholarUp/assets/148403239/8ac04a5b-2d2e-418f-bca4-c0425b4a6977">
 </p>
 
 # :green_apple: About ScholarUp
@@ -10,8 +10,9 @@ ScholarUp is a combination of studying, planning, and _friendly_ competition. Sc
 ## :woman_student: Meet the Creators:
 ### Jenny Spicer
 A senior in the general Computer Science concentration with a huge interest in Software Engineering. I regularly use study/productivity apps, so I am thrilled to be working on one with my team. You can contact me through [LinkedIn](https://www.linkedin.com/in/jenspi/) or take a stroll through my [GitHub](https://github.com/Jenspi).
+
 ### Jumana Suleiman
-A Junior in Computer Science intrested in Mobile Application Development and Software Engineering. I use planners and calenders to keep track of what I need done, so it will be very intresting to see the process of creating an app like this! You can contact me through: [LinkedIn](https://www.linkedin.com/in/jumana-sul) or [Email](jumana.suleiman.cs@gmail.com).
+A Junior in Computer Science interested in Mobile Application Development and Software Engineering. I use planners and calendars to keep track of what I need done, so it will be very interesting to see the process of creating an app like this! You can contact me through: [LinkedIn](https://www.linkedin.com/in/jumana-sul) or [Email](jumana.suleiman.cs@gmail.com). Original Prototype UI designed by me: [ScholarUp Prototype](https://github.com/JumanaCS/MY-ART/tree/main/ScholarUp).
 
 ### Kailey Bergeron
 A Junior in Computer Science dedicated to building my leadership, problem-solving, mobile & web design and development skills. Have always enjoyed using and discovering new productivity apps. I belive they are useful in a variety of ways, and am thrilled to work with a creative and ambitious team to develop our very own productivity app. For my background and experience: [LinkedIn](https://www.linkedin.com/in/kaileybergeron/) and [Portfolio](https://techkailey.github.io/MyPortfolioWebsite/).
