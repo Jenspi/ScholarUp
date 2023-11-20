@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { StyleSheet, Text, View, TextInput, TouchableOpacity, ImageBackground } from 'react-native';
+import { withNavigation } from "react-navigation";
 
 const SignIn = (props) => {
   const [username, setUsername] = useState('');
@@ -8,7 +9,7 @@ const SignIn = (props) => {
   return (
     <View style={styles.container}>
       <ImageBackground
-            source={require("../../../assets/signinback.png")}
+            source={require("../../assets/images/signinback.png")}
             style={styles.backgroundImage}
             />
 
@@ -26,7 +27,7 @@ const SignIn = (props) => {
           onChangeText={setPassword}
           secureTextEntry
         />
-        <TouchableOpacity style={styles.button} onPress>
+        <TouchableOpacity style={styles.button} onPress={()=>{props.navigation.navigate('Home')}}>
           <Text style={styles.buttonText}>Log In</Text>
         </TouchableOpacity>
       </View>
@@ -93,4 +94,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default SignIn;
+export default withNavigation(SignIn);
