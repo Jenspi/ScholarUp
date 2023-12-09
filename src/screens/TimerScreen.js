@@ -1,9 +1,9 @@
 // Jumana Suleiman 
 import React, { useState, useEffect } from "react";
-import { View, Text, StyleSheet, TouchableOpacity, ImageBackground } from "react-native";
+import { View, Text, StyleSheet, TouchableOpacity, ImageBackground, Image } from "react-native";
 
 // Define a custom component for each timer
-const Timer = ({ title, initialTime }) => {
+const Timer = ({ title, initialTime, navigation }) => {
   // Use state variables to store the current time, status and button text
   const [time, setTime] = useState(initialTime);
   const [isRunning, setIsRunning] = useState(false);
@@ -64,15 +64,32 @@ const Timer = ({ title, initialTime }) => {
 };
 
 //  main 
-const TimerScreen = () => {
+const TimerScreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
-    <ImageBackground
-      source={require("../../../assets/timerBack.png")}
-      style={styles.backgroundImage}
-    /> 
-      <Timer title="Focus" initialTime={1500} /> 
+      <ImageBackground
+        source={require("../../assets/images/timerBack.png")}
+        style={styles.backgroundImage}
+      />
+      <Timer title="Focus" initialTime={1500} />
       <Timer title="Break" initialTime={300} />
+      
+      <View style={styles.navBar}>
+        <View style={styles.bottomBar}>
+          <TouchableOpacity onPress={() => navigation.navigate("Timer")}>
+            <Image source={require("../../assets/images/clock.png")} style={styles.icon} />
+          </TouchableOpacity>
+          <TouchableOpacity onPress={() => navigation.navigate("Flash")}>
+            <Image source={require("../../assets/images/flashcards.png")} style={styles.icon} />
+          </TouchableOpacity>
+          <TouchableOpacity onPress={() => navigation.navigate("Home")}>
+            <Image source={require("../../assets/images/homelogo.png")} style={styles.icon} />
+          </TouchableOpacity>
+          <TouchableOpacity onPress={() => navigation.navigate("Tasks")}>
+            <Image source={require("../../assets/images/calender.png")} style={styles.icon} />
+          </TouchableOpacity>
+        </View>
+      </View>
     </View>
   );
 };
@@ -81,16 +98,15 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     flexDirection: "row",
-    justifyContent: "space-evenly",
+    justifyContent: "center",
     alignItems: "center",
   },
-  
-  backgroundImage:{
+  backgroundImage: {
     position: 'absolute',
     top: 0,
     left: 0,
     bottom: 0,
-    right: 0,  
+    right: 0,
   },
   timer: {
     width: 150,
@@ -129,6 +145,26 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: "bold",
     color: "#FFFFFF",
+  },
+  navBar: {
+    position: "absolute",
+    bottom: 10,
+    width: "80%", 
+    height: "auto",
+    borderRadius: 20,
+    margin: 10,
+    borderTopColor: "#000", // Changed border color to match HomeScreen
+    backgroundColor: "#667e52", // Changed background color to match HomeScreen
+  },
+  bottomBar: {
+    flexDirection: "row",
+    justifyContent: "space-around",
+    paddingVertical: 20,
+    
+  },
+  icon: {
+    width: 60,
+    height: 60,
   },
 });
 
