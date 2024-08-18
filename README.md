@@ -12,7 +12,8 @@ ScholarUp is a combination of studying, planning, and _friendly_ competition. Sc
 A senior in the general Computer Science concentration with a huge interest in Software Engineering. I regularly use study/productivity apps, so I am thrilled to be working on one with my team. You can contact me through [LinkedIn](https://www.linkedin.com/in/jenspi/) or take a stroll through my [GitHub](https://github.com/Jenspi).
 
 ### Jumana Suleiman
-A senior in Computer Science interested in Mobile Application Development and Software Engineering. I use planners and calendars to keep track of what I need done, so it will be very interesting to see the process of creating an app like this! You can reach me: [LinkedIn](https://www.linkedin.com/in/jumana-sul). 
+A senior in Computer Science interested in Mobile Application Development and Software Engineering. I use planners and calendars to keep track of what I need done, so it will be very interesting to see the process of creating an app like this! You can reach me: [LinkedIn](https://www.linkedin.com/in/jumana-sul).
+
 UI designed by me: [ScholarUp Prototype](https://github.com/JumanaCS/MY-ART/tree/main/ScholarUp) and [ScholarUp Slides](https://docs.google.com/presentation/d/17w2G4pYsliUlZ8SEmiXdHXObV6MG3XdAndcf3I_jJzw/edit?usp=sharing).
 
 ### Kailey Bergeron
