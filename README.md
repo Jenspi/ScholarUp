@@ -1,6 +1,4 @@
-<p align="center">
-<img width="671" alt="Screenshot 2023-11-17 at 9 56 54 PM" src="https://github.com/Jenspi/ScholarUp/assets/148403239/8ac04a5b-2d2e-418f-bca4-c0425b4a6977">
-</p>
+![IMG_2009](https://github.com/user-attachments/assets/ab84e5f4-a217-418c-ba19-eb7c15bfebc0)
 
 # :green_apple: About ScholarUp
 ScholarUp is our study app created for our Mobile Applications Development course in Fall 2023; presented at InnovateUNO (2023) and the Annual ULS Academic Summit (2024).
