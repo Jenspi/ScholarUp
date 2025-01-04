@@ -5,9 +5,36 @@ ScholarUp is our study app created for our Mobile Applications Development cours
 
 ScholarUp is a combination of studying, planning, and _friendly_ competition. ScholarUp uses XP from creating flashcards, studying, or mastering a concept to determine where a user would fall on a leaderboard. We implement daily challenges and achievements for those who enjoy the passive challenge.
 
+# ✨ Installation
+
+* <b>Git</b>
+* <b>Node</b>
+    1. Type the following into the terminal:
+        ```
+        curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.3/install.sh | bash
+        ```
+    2. Exit terminal and reopen; Type `nvm` and you will get a response if it worked.
+    3. Install version 16: `nvm install 16`.
+    4. Make your default alias: `nvm alias default 16`.
+* <b>NPM</b>
+    1. Go to the directory that ScholarUp is in and open a terminal window there.
+    2. `npm install --legacy-peer-deps`; You will see a folder named `node_modules` in the directory if successful.
+    3. `npm start`
+* <b>Libraries</b>
+    1. `npm i moment`
+    2. `npx expo install @react-native-community/datetimepicker@6.5.2`
+
+# 📲 Running ScholarUp
+
+#### With the terminal
+Use `npm start` in the terminal and scan the QR code that shows up. You will need the Expo Go app, where this QR code will redirect to.
+
+#### With Android Studio
+Open project in [Android Studio](https://developer.android.com/studio) > add a device in the Device Manager > `npm start` in the Android Studio terminal > press "a" for Android.
+
 ## :pencil: Meet the Creators:
 ### Jenny Spicer
-A senior in the general Computer Science concentration with a huge interest in Software Engineering and Data Analytics. I regularly use study/productivity apps, so I am thrilled to be working on one with my team. You can contact me through [LinkedIn](https://www.linkedin.com/in/jenspi/) or take a stroll through my [GitHub](https://github.com/Jenspi).
+A senior in the general Computer Science concentration with a huge interest in Software Engineering and Data Analytics. I regularly use study/productivity apps, so I am thrilled to be working on one with my team. You can contact me through [LinkedIn](https://www.linkedin.com/in/jenspi/) or take a stroll through my [Portfolio](https://jenspi.github.io).
 
 ### Jumana Suleiman
 A senior in Computer Science interested in Mobile Application Development and Software Engineering. I use planners and calendars to keep track of what I need done, so it will be very interesting to see the process of creating an app like this! You can reach me: [LinkedIn](https://www.linkedin.com/in/jumana-sul).
