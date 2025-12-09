@@ -222,8 +222,10 @@ Use `npm start` in the terminal and scan the QR code that shows up. You will nee
 Open project in [Android Studio](https://developer.android.com/studio) > add a device in the Device Manager > `npm start` in the Android Studio terminal > press "a" for Android.
 
 ## :pencil: Meet the Creators:
+> [!NOTE]
+> *These are descriptions from November 2023. See social medias for most up-to-date information. We're all graduated now! ❣️*
 ### Jenny Spicer
-A senior in the general Computer Science concentration with a huge interest in Software Engineering and Data Analytics. I regularly use study/productivity apps, so I am thrilled to be working on one with my team. You can contact me through [LinkedIn](https://www.linkedin.com/in/jenspi/) or take a stroll through my [Portfolio](https://jenspi.github.io).
+A senior in the general Computer Science concentration with a huge interest in Software Engineering and Data Analytics. I regularly use study/productivity apps, so I am thrilled to be working on one with my team. I especially worked on user research and UI/UX, hand-picking impactful features such as a color palette carefuly chosen with color psychology. You can contact me through [LinkedIn](https://www.linkedin.com/in/jenspi/) or take a stroll through my [portfolio website](https://jenspi.github.io).
 
 ### Jumana Suleiman
 A senior in Computer Science interested in Mobile Application Development and Software Engineering. I use planners and calendars to keep track of what I need done, so it will be very interesting to see the process of creating an app like this! You can reach me: [LinkedIn](https://www.linkedin.com/in/jumana-sul).
