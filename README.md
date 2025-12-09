@@ -44,7 +44,8 @@
 
 
 # :green_apple: About ScholarUp
-> [!NOTE] ScholarUp is our study app created for our Mobile Applications Development course in Fall 2023; presented at InnovateUNO (2023) and the Annual ULS Academic Summit (2024).
+> [!NOTE]
+> ScholarUp is our study app created for our Mobile Applications Development course in Fall 2023; presented at InnovateUNO (2023) and the Annual ULS Academic Summit (2024).
 
 ScholarUp is a mobile study app that combines studying, planning, and aesthetics. It holds all the features you need to study consistently and successfully, while also having a cute and consistent color scheme.  
 
