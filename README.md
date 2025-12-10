@@ -43,6 +43,7 @@
   - [🏆 InnovateUNO](#-innovateuno)
     - [Handmade Charms Made for the Audience](#handmade-charms-made-for-the-audience)
   - [🎤 ULS Academic Summit 2024](#-uls-academic-summit-2024)
+  - [📄 License](#-license)
 
 
 # 🍏 About ScholarUp
@@ -289,3 +290,18 @@ We placed **First Place** out of 100 other UNO students and faculty, winning $20
 ScholarUp was presented at Louisiana Tech University on April 11-12, 2024 for the University of Louisiana System Academic Summit. The summit included students and faculty from all nine ULS universities.
 
 <img width="1249" src="repo_photos/summit.png" />
+
+---
+
+## 📄 License
+
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]](cc-by-nc-nd) <br>
+*Updated December 9, 2025.*
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-nd].
+
+<!-- License Variables -->
+[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
+[cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge&
