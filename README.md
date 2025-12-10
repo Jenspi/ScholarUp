@@ -1,53 +1,55 @@
 ![IMG_2009](repo_photos/ScholarUp.jpg)
 
-- [:green\_apple: About ScholarUp](#green_apple-about-scholarup)
+- [🍏 About ScholarUp](#-about-scholarup)
   - [📗 Features](#-features)
 - [📦 Screenshots](#-screenshots)
   - [Flash Card Screens](#flash-card-screens)
   - [To Do List Screens](#to-do-list-screens)
   - [Study Timer and Home Page Screen](#study-timer-and-home-page-screen)
   - [App Icon](#app-icon)
-- [:green\_apple: ScholarUp Case Study](#green_apple-scholarup-case-study)
-  - [Milestone 2: Problem Analysis and Project Proposal](#milestone-2-problem-analysis-and-project-proposal)
+- [🍏 ScholarUp Case Study](#-scholarup-case-study)
+  - [❓ Milestone 2: Problem Analysis and Project Proposal](#-milestone-2-problem-analysis-and-project-proposal)
     - [Problem Statement](#problem-statement)
-    - [Solution: ScholarUp](#solution-scholarup)
+    - [Problem Statement Solution: ScholarUp](#problem-statement-solution-scholarup)
     - [Stakeholders](#stakeholders)
     - [Competitive Analysis](#competitive-analysis)
-  - [Milestone 3: Competitive Analysis](#milestone-3-competitive-analysis)
+  - [📈 Milestone 3: Competitive Analysis](#-milestone-3-competitive-analysis)
     - [Inspiration from Existing Apps](#inspiration-from-existing-apps)
     - [Conclusion](#conclusion)
-  - [Milestone 4: Stakeholder Interviews](#milestone-4-stakeholder-interviews)
+  - [🎙️ Milestone 4: Stakeholder Interviews](#️-milestone-4-stakeholder-interviews)
     - [Key Insights from User Feedback](#key-insights-from-user-feedback)
     - [Synthesis Report Findings](#synthesis-report-findings)
     - [Graphs](#graphs)
   - [Milestone 5: Storyboard](#milestone-5-storyboard)
-  - [Milestone 6: Paper Prototype Testing](#milestone-6-paper-prototype-testing)
+  - [🧪 Milestone 6: Paper Prototype Testing](#-milestone-6-paper-prototype-testing)
     - [Testing Observations](#testing-observations)
     - [Key Takeaways from Testing](#key-takeaways-from-testing)
-  - [Final Milestone: Deliverable (Final Features)](#final-milestone-deliverable-final-features)
+  - [📬 Final Milestone: Deliverable (Final Features)](#-final-milestone-deliverable-final-features)
     - [✅ Study Tools](#-study-tools)
     - [✅ Planning](#-planning)
     - [✅ Social \& Gamification](#-social--gamification)
-    - [Impact \& Future Improvements](#impact--future-improvements)
-    - [Conclusion](#conclusion-1)
+    - [🐾 Impact \& Future Improvements](#-impact--future-improvements)
+    - [💡 Conclusion](#-conclusion)
+    - [⚙️ Setup Requirements](#️-setup-requirements)
   - [✨ Installation](#-installation)
   - [📲 Running ScholarUp](#-running-scholarup)
-      - [With the terminal](#with-the-terminal)
+      - [With Expo Go (mobile app)](#with-expo-go-mobile-app)
       - [With Android Studio](#with-android-studio)
-  - [:pencil: Meet the Creators:](#pencil-meet-the-creators)
+      - [With Xcode](#with-xcode)
+  - [✏️ Meet the Creators:](#️-meet-the-creators)
     - [Jenny Spicer](#jenny-spicer)
     - [Jumana Suleiman](#jumana-suleiman)
     - [Kailey Bergeron](#kailey-bergeron)
-  - [:trophy: InnovateUNO](#trophy-innovateuno)
+  - [🏆 InnovateUNO](#-innovateuno)
     - [Handmade Charms Made for the Audience](#handmade-charms-made-for-the-audience)
-  - [:microphone: ULS Academic Summit 2024](#microphone-uls-academic-summit-2024)
+  - [🎤 ULS Academic Summit 2024](#-uls-academic-summit-2024)
 
 
-# :green_apple: About ScholarUp
+# 🍏 About ScholarUp
 > [!NOTE]
 > ScholarUp is our study app created for our Mobile Applications Development course in Fall 2023; presented at InnovateUNO (2023) and the Annual ULS Academic Summit (2024).
 
-ScholarUp is a mobile study app that combines studying, planning, and aesthetics. It holds all the features you need to study consistently and successfully, while also having a cute and consistent color scheme.  
+ScholarUp is a mobile study app that combines studying, planning, and aesthetics. It holds all the features you need to study consistently and successfully, while also having a cute and consistent color scheme of green, white, and brown.  
 
 ## 📗 Features
 • **Flashcards:** Create new flashcard stacks, add items to it, practice the cards, and star what you know.<br>
@@ -84,14 +86,14 @@ ScholarUp is a mobile study app that combines studying, planning, and aesthetics
  ## App Icon
 <img src="repo_photos/app-icon.png" width="200" />
 
- # :green_apple: ScholarUp Case Study
+ # 🍏 ScholarUp Case Study
 This case study documents the development process, from initial problem analysis to the final deliverable, highlighting key milestones, stakeholder feedback, and iterative improvements.
 
-## Milestone 2: Problem Analysis and Project Proposal
+## ❓ Milestone 2: Problem Analysis and Project Proposal
 ### Problem Statement
 Students struggle with organization, motivation, and consistency in their study habits. Existing apps like Notion, Duolingo, and Quizlet offer partial solutions but lack a unified approach that combines planning, studying, and social accountability.
 
-### Solution: ScholarUp
+### Problem Statement Solution: ScholarUp
 ScholarUp addresses these challenges by integrating:
 - **Study Tools** (Flashcards, Test Maker, Study Timer, Note Imports)
 - **Planning** (Task Management, Habit Tracking, Syllabus Integration)
@@ -111,7 +113,7 @@ ScholarUp addresses these challenges by integrating:
 | Duolingo     | Gamification, Addictive       | Aggressive ads, Punitive mistakes      |
 | Quizlet     | Study Modes, Offline Access       | Paywalled features, Disorganized imports      |
 
-## Milestone 3: Competitive Analysis
+## 📈 Milestone 3: Competitive Analysis
 ### Inspiration from Existing Apps
 1. **Duolingo** – Leaderboards, XP system, addictive UX.
 
@@ -129,7 +131,7 @@ ScholarUp addresses these challenges by integrating:
 ### Conclusion
 ScholarUp stands out by merging multiple study tools into one cohesive experience, unlike competitors that focus on single functionalities.
 
-## Milestone 4: Stakeholder Interviews
+## 🎙️ Milestone 4: Stakeholder Interviews
  - [Stakeholder Questions](https://docs.google.com/document/d/1bmIvVFVsvj_rH24AcGEtTHQtaLRsC4KWJOjmSu54Rr4/edit?usp=sharing)
 ### Key Insights from User Feedback
 | Stakeholder Type | Pain Points | Desired Features |
@@ -155,7 +157,7 @@ ScholarUp stands out by merging multiple study tools into one cohesive experienc
 <img width="623" src="repo_photos/storyboard-1.png" />
 <img width="610" src="repo_photos/storyboard-2.png" />
 
-## Milestone 6: Paper Prototype Testing
+## 🧪 Milestone 6: Paper Prototype Testing
 ### Testing Observations
 | Issue  | Solution Implemented |
 | ------------- | ------------- |
@@ -173,7 +175,7 @@ ScholarUp stands out by merging multiple study tools into one cohesive experienc
   
 <img width="999" src="repo_photos/paper-prototype.png" />
 
-## Final Milestone: Deliverable (Final Features)
+## 📬 Final Milestone: Deliverable (Final Features)
 ### ✅ Study Tools
 - Flashcards (create, practice, star difficult cards)
 - Test Maker & Mistake Reviewer
@@ -187,41 +189,81 @@ ScholarUp stands out by merging multiple study tools into one cohesive experienc
 ### ✅ Social & Gamification
 - Leaderboards (opt-out available)
 
-### Impact & Future Improvements
+### 🐾 Impact & Future Improvements
 - **Positive Feedback:** Users loved the all-in-one approach.
 - **Areas for Improvement:** Stats addition, Leaderboard addition, Test Maker addition. 
 
-### Conclusion
+### 💡 Conclusion
 ScholarUp successfully merges planning, studying, and motivation into a single app, addressing key pain points for students. Through iterative testing and stakeholder feedback, the app evolved into a user-friendly, feature-rich tool that enhances study habits while reducing stress.
+
+### ⚙️ Setup Requirements
+
+- [ ] Git
+- [ ] Node Version Manager (nvm)
+- [ ] Node Package Manager (npm) (version 16 or higher via nvm)
+  - [ ] Required libraries: `moment` (JavaScript package), `@react-native-community/datetimepicker@6.5.2` (React Native package)
+- [ ] One or more of the following testing methods:
+  - Expo Go app (best for computers with low storage)
+  - Android Studio (Android emulation)
+  - Xcode with iOS Simulator (macOS only; iOS emulation)
 
 ## ✨ Installation
 
-* <b>Git</b>
-* <b>Node</b>
-    1. Type the following into the terminal:
-        ```
-        curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.3/install.sh | bash
-        ```
-    2. Exit terminal and reopen; Type `nvm` and you will get a response if it worked.
-    3. Install version 16: `nvm install 16`.
-    4. Make your default alias: `nvm alias default 16`.
-* <b>NPM</b>
-    1. Go to the directory that ScholarUp is in and open a terminal window there.
-    2. `npm install --legacy-peer-deps`; You will see a folder named `node_modules` in the directory if successful.
-    3. `npm start`
-* <b>Libraries</b>
-    1. `npm i moment`
-    2. `npx expo install @react-native-community/datetimepicker@6.5.2`
+```bash
+【 Install Node Version Manager 】
+# Type the following into the terminal (one line):
+$ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.3/install.sh | bash
+# EXIT terminal and RE-OPEN
+$ nvm                               # You will get a response if the curl command was successful.
+
+# Install version 16
+$ nvm install 16
+#Make your default alias
+$ nvm alias default 16
+
+【 Clone ScholarUp 】
+# Navigate to a directory you want our repository to be cloned in (source/ recommended)
+$ git clone https://github.com/Jenspi/ScholarUp.git
+
+【 Install Node Package Manager via ScholarUp/ 】
+# Navigate inside ScholarUp/ (where App.js is located) and open a terminal window there
+  # Your hierarchy should look like this when opening a terminal:
+  # ScholarUp/
+  # ├── src/                    # Source code (your app logic)
+  # ├── assets/                 # Images, fonts, icons
+  # ├── repo_photos/            # Repository documentation images
+  # ├── InnovateUNO_Slides/     # Presentation slides
+  # ├── App.js                  # Main app entry point
+  # ├── app.json                # Expo configuration
+  # └── ...
+$ npm install --legacy-peer-deps    # You will see a folder named `node_modules` appear in the directory if successful.
+
+
+【 Install npm Libraries via ScholarUp/ 】
+# Install JavaScript's "moment" package: 
+$ npm i moment
+# Install React Native's "datetimepicker" package:
+$ npx expo install @react-native-community/datetimepicker@6.5.2
+
+# Go on to the "Running ScholarUp" section! ♥︎
+```
 
 ## 📲 Running ScholarUp
 
-#### With the terminal
-Use `npm start` in the terminal and scan the QR code that shows up. You will need the Expo Go app, where this QR code will redirect to.
+#### With Expo Go (mobile app)
+Use `npm start` in the terminal and scan the QR code that shows up.
 
-#### With Android Studio
+***Note*:** You **must** have the Expo Go app, where this QR code will redirect to once scanned. Make sure you have the correct app downloaded: [Apple Store](https://expo.dev/go) | [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US&pli=1)
+
+#### With Android Studio 
 Open project in [Android Studio](https://developer.android.com/studio) > add a device in the Device Manager > `npm start` in the Android Studio terminal > press "a" for Android.
 
-## :pencil: Meet the Creators:
+#### With Xcode
+Open the iOS Simulator (Xcode menu > Open Developer Tool > Simulator) > `npm start` in your terminal > press "i" for iOS.
+
+***Note*:** You do **not** need to open the project in Xcode; simply launch the iOS Simulator. The Expo CLI will automatically deploy to any running simulator when you press "i".
+
+## ✏️ Meet the Creators:
 > [!NOTE]
 > *These are descriptions from November 2023. See social medias for most up-to-date information. We're all graduated now! ❣️*
 ### Jenny Spicer
@@ -234,7 +276,7 @@ UI designed by me: [ScholarUp Prototype](https://github.com/JumanaCS/MY-ART/tree
 ### Kailey Bergeron
 A senior in Computer Science dedicated to building my leadership, problem-solving, mobile & web design, and development skills. Have always enjoyed using and discovering new productivity apps. I believe they are useful in a variety of ways, and am thrilled to work with a creative and ambitious team to develop our very own productivity app. For my background and experience: [LinkedIn](https://www.linkedin.com/in/kaileybergeron/) and [Portfolio](https://techkailey.github.io/MyPortfolioWebsite/).
 
-## :trophy: InnovateUNO
+## 🏆 InnovateUNO
 ScholarUp was presented on November 14th, 2023 at UNO’s annual research symposium, _InnovateUNO_. See our [abstract](https://www.uno.edu/innovateuno/abstracts#comp).
 We placed **First Place** out of 100 other UNO students and faculty, winning $200 and an invitation to present at the ULS Annual Academic Summit. [Winners Page](https://www.uno.edu/innovateuno/winners#:~:text=Fall%202023-,Undergraduate,-Students), [Presentation Slides](https://docs.google.com/presentation/d/17w2G4pYsliUlZ8SEmiXdHXObV6MG3XdAndcf3I_jJzw/edit?usp=sharing)
 
@@ -243,7 +285,7 @@ We placed **First Place** out of 100 other UNO students and faculty, winning $20
 ### Handmade Charms Made for the Audience 
 <img width="1184" src="repo_photos/charms.png" />
 
-## :microphone: ULS Academic Summit 2024
+## 🎤 ULS Academic Summit 2024
 ScholarUp was presented at Louisiana Tech University on April 11-12, 2024 for the University of Louisiana System Academic Summit. The summit included students and faculty from all nine ULS universities.
 
 <img width="1249" src="repo_photos/summit.png" />
